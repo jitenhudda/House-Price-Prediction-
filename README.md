@@ -104,7 +104,7 @@ Project Structure
 House-Price-Prediction/
 │
 ├── House Price Prediction.ipynb
-├── data.csv
+├── Housing.csv
 ├── README.md
 Limitations
 Model depends on dataset quality
