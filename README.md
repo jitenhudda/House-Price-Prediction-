@@ -1,4 +1,4 @@
-# House Price Prediction using Machine Learning
+House Price Prediction using Machine Learning
 Overview
 
 This project implements a machine learning-based system to predict house prices based on various property features such as area, number of bedrooms, bathrooms, and additional amenities.
@@ -85,16 +85,6 @@ Mean Absolute Error: Measures average prediction error
 
 These metrics ensure the model provides reliable predictions for unseen data.
 
-Installation and Setup
-Step 1: Clone the Repository
-git clone https://github.com/your-username/House-Price-Prediction.git
-cd House-Price-Prediction
-Step 2: Install Dependencies
-pip install -r requirements.txt
-Step 3: Run the Notebook
-
-Open the notebook in Jupyter or Google Colab and execute all cells.
-
 Usage
 Upload the dataset CSV file
 Train the model using the pipeline
@@ -104,7 +94,7 @@ Project Structure
 House-Price-Prediction/
 │
 ├── House Price Prediction.ipynb
-├── Housing.csv
+├── data.csv
 ├── README.md
 Limitations
 Model depends on dataset quality
